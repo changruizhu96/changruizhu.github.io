@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://changruizhu.github.io/al-folio/sitemap.xml
+Sitemap: https://changruizhu.github.io/sitemap.xml
